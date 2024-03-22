@@ -1,2 +1,2 @@
 # kodluyoruz-ilk-repo
-kodluyoruz front-end eğitimi kapsamında açtığım ilk repom
+kodluyoruz  eğitimi kapsamında açtığım ilk repom
